@@ -76,13 +76,19 @@ module.exports = {
         pathToConfigModule: `src/utils/typography`,
       },
     },
+    {
+      resolve: 'gatsby-plugin-sw',
+      options: {
+        swPath: `src/custom-sw-code.js`, // Default to 'src/sw.js'
+      },
+    },
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     {
       resolve: `gatsby-plugin-offline`,
       options: {
         // precachePages: [`/about-us/`, `/projects/*`],
-        appendScript: require.resolve(`src/custom-sw-code.js`),
+        // appendScript: require.resolve(`src/custom-sw-code.js`),
       },
     },
   ],
