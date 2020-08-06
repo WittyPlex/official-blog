@@ -9,10 +9,14 @@
   Official blog for WittyPlex based on Gatsby
 </h1>
 
-Kick off your project with this blog boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
+** We are a digital creative design, software solution provider and App development studio based in Bangladesh.**
 
-_Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
+WittyPlex provides in-house design and development services. This includes all digital goods - the creation of websites, games, mobile and desktop apps.
 
+_You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
+
+
+<!--
 ## 🚀 Quick start
 
 1.  **Create a Gatsby site.**
@@ -97,4 +101,4 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/gatsbyjs/gatsby-starter-blog)
 
-<!-- AUTO-GENERATED-CONTENT:END -->
+ AUTO-GENERATED-CONTENT:END -->
