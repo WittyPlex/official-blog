@@ -1,4 +1,5 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a24e2bda-9ea1-4295-8e1f-aa6349876206/deploy-status)](https://app.netlify.com/sites/wittyplex-blog/deploys)
 <p align="center">
   <a href="https://www.gatsbyjs.org">
     <img alt="Gatsby" src="https://wittyplex.com/img/logo.png" width="200" />

@@ -66,7 +66,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/wittyplex-logo-logo.png`,
+        icon: `content/assets/wittyplex-logo.png`,
       },
     },
     `gatsby-plugin-react-helmet`,
