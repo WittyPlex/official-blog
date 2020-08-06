@@ -60,13 +60,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Official WittyPlex Blog`,
+        short_name: `WittyPlex Blog`,
         start_url: `/`,
-        background_color: `#ffffff`,
-        theme_color: `#663399`,
+        background_color: `#000000`,
+        theme_color: `#383838`,
         display: `minimal-ui`,
-        icon: `content/assets/wittyplex-logo.png`,
+        icon: `content/assets/wittyplex-logo-icon.png`,
       },
     },
     `gatsby-plugin-react-helmet`,
@@ -78,6 +78,12 @@ module.exports = {
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
-    `gatsby-plugin-offline`,
+    {
+      resolve: `gatsby-plugin-offline`,
+      options: {
+        // precachePages: [`/about-us/`, `/projects/*`],
+        appendScript: require.resolve(`src/custom-sw-code.js`),
+      },
+    },
   ],
 }
