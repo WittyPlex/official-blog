@@ -9,11 +9,11 @@
   Official blog for WittyPlex based on Gatsby
 </h1>
 
-** We are a digital creative design, software solution provider and App development studio based in Bangladesh.**
+**We are a digital creative design, software solution provider and App development studio based in Bangladesh.**
 
 WittyPlex provides in-house design and development services. This includes all digital goods - the creation of websites, games, mobile and desktop apps.
 
-_You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
+_You may want to check out live version of [official blog](https://blogs.wittyplex.com/)._
 
 
 <!--
